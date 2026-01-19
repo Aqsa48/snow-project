@@ -1,0 +1,115 @@
+site_id,location_name,lon_[wgs84],lat_[wgs84],elevation_[m],dataset
+1AD,Adelboden,7.56070474337506,46.49204373346372,1325,calibration_data_manual_stations
+1GA,Gadmen,8.352310410696944,46.736667216967085,1190,calibration_data_manual_stations
+1GB,Grindelwald Bort,8.051395374877906,46.64728248184295,1565,calibration_data_manual_stations
+1GD,Grindel,8.064320039388347,46.65791751044939,1950,calibration_data_manual_stations
+1GS,Gsteig,7.278513918668599,46.37642923435198,1195,calibration_data_manual_stations
+1GT,Gantrisch,7.439942595241972,46.7176540707753,1510,calibration_data_manual_stations
+1JA,Jaunpass,7.339461448804969,46.59347221680735,1520,calibration_data_manual_stations
+1LS,Leysin,7.025101280615602,46.351930391923645,1300,calibration_data_manual_stations
+1MI,Morgins,6.859421617429131,46.2362527240073,1320,calibration_data_manual_stations
+1MR,Mürren,7.89017793723737,46.55843631451694,1650,calibration_data_manual_stations
+1PL,Planachaux,6.842860275084299,46.17436566577061,1870,calibration_data_manual_stations
+1SM,Saanenmöser,7.297507584225419,46.518764817336994,1390,calibration_data_manual_stations
+1WE,Wengen,7.921318734613514,46.606436001957746,1280,calibration_data_manual_stations
+2AN,Andermatt,8.591907736660113,46.633196741379294,1440,calibration_data_manual_stations
+2GA,Göscheneralp,8.518229377179653,46.65182215186351,1550,calibration_data_manual_stations
+2OG,Oberiberg,8.778706099820058,47.03995183383067,1060,calibration_data_manual_stations
+2RI,Rigi Scheidegg,8.522628899850995,47.02728221787581,1640,calibration_data_manual_stations
+2ST,Stoos,8.67454674056063,46.97428774903649,1280,calibration_data_manual_stations
+2TR,Trübsee,8.395284794828035,46.79146174127263,1780,calibration_data_manual_stations
+3BR,Braunwald,8.98843051492013,46.93812827735294,1310,calibration_data_manual_stations
+3EL,Elm,9.15202549778463,46.927475294849216,1690,calibration_data_manual_stations
+3FB,Flumserberg,9.294458023214437,47.08901143398257,1310,calibration_data_manual_stations
+3MB,Malbun,9.608577555213026,47.10312236067426,1610,calibration_data_manual_stations
+3SW,Schwägalp,9.316537724595696,47.256632790462234,1350,calibration_data_manual_stations
+4BP,Bourg-St-Pierre,7.208337853888811,45.946093216768055,1670,calibration_data_manual_stations
+4CR,La Creusaz,6.996492970316878,46.1192997289019,1720,calibration_data_manual_stations
+4EG,Egginer,7.91509472354996,46.07832029201047,2645,calibration_data_manual_stations
+4FY,Fionnay,7.309103757790725,46.031396459557996,1500,calibration_data_manual_stations
+4KU,Kühboden,8.104568820212451,46.415067817309215,2210,calibration_data_manual_stations
+4MS,Münster,8.263750654763156,46.49044555461805,1410,calibration_data_manual_stations
+4SF,Saas Fee,7.926646988814435,46.10391758320916,1790,calibration_data_manual_stations
+4SH,Simplon Hospiz,8.02989686874034,46.24671884045246,2000,calibration_data_manual_stations
+4UL,Ulrichen,8.308268556809928,46.50486695564996,1345,calibration_data_manual_stations
+4WI,Wiler,7.78376350394202,46.40525401100661,1450,calibration_data_manual_stations
+4ZE,Zermatt,7.75061949962201,46.02375244306809,1600,calibration_data_manual_stations
+5AR,Arosa,9.682928584234268,46.79231201607408,1845,calibration_data_manual_stations
+5BI,Bivio,9.651039020901747,46.46887434052683,1770,calibration_data_manual_stations
+5DF,Davos Flüelastr.,9.848286319948055,46.81270287501102,1560,calibration_data_manual_stations
+5DI,Disentis,8.854933143094215,46.7073338294382,1190,calibration_data_manual_stations
+5FU,Fuorns,8.849212632585823,46.63866706199798,1480,calibration_data_manual_stations
+5JU,Juf,9.57822281341292,46.44552318800372,2117,calibration_data_manual_stations
+5KK,Klosters KW,9.887663455061164,46.86365897445096,1190,calibration_data_manual_stations
+5RU,Rumein,9.16449308762025,46.71044558248241,1200,calibration_data_manual_stations
+5SE,Sedrun,8.768838356244457,46.67940069365642,1420,calibration_data_manual_stations
+5SP,Splügen,9.328631025867075,46.55460479021774,1457,calibration_data_manual_stations
+5ZV,Zervreila,9.118795933148363,46.57877381066537,1735,calibration_data_manual_stations
+6CB,Campo Blenio,8.93671030238917,46.55540573142946,1215,calibration_data_manual_stations
+6NT,Nante,8.620086143136634,46.51829139190638,1412,calibration_data_manual_stations
+6PE,Pesciüm,8.604860997741103,46.51332056747314,1770,calibration_data_manual_stations
+6RO,Robiei,8.513016833095689,46.44243333160514,1890,calibration_data_manual_stations
+6SB,San Bernardino,9.184625702822652,46.46351013874551,1640,calibration_data_manual_stations
+7CO,Corvatsch,9.82241016568344,46.43223160793876,2690,calibration_data_manual_stations
+7CW,Corvatsch,9.813693321593536,46.438588416801444,2270,calibration_data_manual_stations
+7LD,La Drossa,10.190323225530703,46.65384774587077,1710,calibration_data_manual_stations
+7MA,Maloja,9.697296809584145,46.39902804716854,1810,calibration_data_manual_stations
+7MT,Motta Naluns,10.2711600842459,46.81056003396029,2150,calibration_data_manual_stations
+7PO,Pontresina,9.907448163455571,46.490497451526956,1840,calibration_data_manual_stations
+7SN,Samnaun,10.395229176898601,46.96053490756922,1750,calibration_data_manual_stations
+7ST,Sta.Maria,10.419340054399221,46.60005730524257,1415,calibration_data_manual_stations
+7ZU,Zuoz,9.962671842815714,46.604579081289714,1710,calibration_data_manual_stations
+1AD,Adelboden,7.56070474337506,46.49204373346372,1325,validation_data_manual_stations
+1GD,Grindel,8.064320039388347,46.65791751044939,1950,validation_data_manual_stations
+1GS,Gsteig,7.278513918668599,46.37642923435198,1195,validation_data_manual_stations
+1GT,Gantrisch,7.439942595241972,46.7176540707753,1510,validation_data_manual_stations
+1LS,Leysin,7.025101280615602,46.351930391923645,1300,validation_data_manual_stations
+1MI,Morgins,6.859421617429131,46.2362527240073,1320,validation_data_manual_stations
+1MR,Mürren,7.89017793723737,46.55843631451694,1650,validation_data_manual_stations
+2AN,Andermatt,8.591907736660113,46.633196741379294,1440,validation_data_manual_stations
+2RI,Rigi Scheidegg,8.522628899850995,47.02728221787581,1640,validation_data_manual_stations
+2ST,Stoos,8.67454674056063,46.97428774903649,1280,validation_data_manual_stations
+2TR,Trübsee,8.395284794828035,46.79146174127263,1780,validation_data_manual_stations
+3BR,Braunwald,8.98843051492013,46.93812827735294,1310,validation_data_manual_stations
+3EL,Elm,9.15202549778463,46.927475294849216,1690,validation_data_manual_stations
+3FB,Flumserberg,9.294458023214437,47.08901143398257,1310,validation_data_manual_stations
+3MB,Malbun,9.608577555213026,47.10312236067426,1610,validation_data_manual_stations
+3SW,Schwägalp,9.316537724595696,47.256632790462234,1350,validation_data_manual_stations
+4BP,Bourg-St-Pierre,7.208337853888811,45.946093216768055,1670,validation_data_manual_stations
+4FY,Fionnay,7.309103757790725,46.031396459557996,1500,validation_data_manual_stations
+4KU,Kühboden,8.104568820212451,46.415067817309215,2210,validation_data_manual_stations
+4MS,Münster,8.263750654763156,46.49044555461805,1410,validation_data_manual_stations
+4SF,Saas Fee,7.926646988814435,46.10391758320916,1790,validation_data_manual_stations
+4UL,Ulrichen,8.308268556809928,46.50486695564996,1345,validation_data_manual_stations
+4WI,Wiler,7.78376350394202,46.40525401100661,1450,validation_data_manual_stations
+4ZE,Zermatt,7.75061949962201,46.02375244306809,1600,validation_data_manual_stations
+5AR,Arosa,9.682928584234268,46.79231201607408,1845,validation_data_manual_stations
+5BI,Bivio,9.651039020901747,46.46887434052683,1770,validation_data_manual_stations
+5DF,Davos Flüelastr.,9.848286319948055,46.81270287501102,1560,validation_data_manual_stations
+5DI,Disentis,8.854933143094215,46.7073338294382,1190,validation_data_manual_stations
+5JU,Juf,9.57822281341292,46.44552318800372,2117,validation_data_manual_stations
+5KK,Klosters KW,9.887663455061164,46.86365897445096,1190,validation_data_manual_stations
+5RU,Rumein,9.16449308762025,46.71044558248241,1200,validation_data_manual_stations
+5SE,Sedrun,8.768838356244457,46.67940069365642,1420,validation_data_manual_stations
+5SP,Splügen,9.328631025867075,46.55460479021774,1457,validation_data_manual_stations
+5ZV,Zervreila,9.118795933148363,46.57877381066537,1735,validation_data_manual_stations
+6NT,Nante,8.620086143136634,46.51829139190638,1412,validation_data_manual_stations
+6RO,Robiei,8.513016833095689,46.44243333160514,1890,validation_data_manual_stations
+6SB,San Bernardino,9.184625702822652,46.46351013874551,1640,validation_data_manual_stations
+7CO,Corvatsch,9.82241016568344,46.43223160793876,2690,validation_data_manual_stations
+7LD,La Drossa,10.190323225530703,46.65384774587077,1710,validation_data_manual_stations
+7MA,Maloja,9.697296809584145,46.39902804716854,1810,validation_data_manual_stations
+7MT,Motta Naluns,10.2711600842459,46.81056003396029,2150,validation_data_manual_stations
+7SN,Samnaun,10.395229176898601,46.96053490756922,1750,validation_data_manual_stations
+7ST,Sta.Maria,10.419340054399221,46.60005730524257,1415,validation_data_manual_stations
+7ZU,Zuoz,9.962671842815714,46.604579081289714,1710,validation_data_manual_stations
+KUT_aws,kuehtai,11.005999000000001,47.207111,1920,validation_data_automatic_stations
+CDP_aws,col_de_porte,5.76558149461089,45.294981363907006,1325,validation_data_automatic_stations
+DAV_aws,davos,9.84826,46.81275,1563,validation_data_automatic_stations
+LAR_aws,laret,9.87144,46.84514,1513,validation_data_automatic_stations
+WFJ_aws,weissfluhjoch,9.80926,46.82955,2536,validation_data_automatic_stations
+WAL_aws,wattener_lizum,11.638580000000001,47.1682,1995,validation_data_automatic_stations
+FEL_aws,fellhorn,10.22033,47.339909999999996,1610,validation_data_automatic_stations
+KUR_aws,kuehroint,12.95973,47.57014,1420,validation_data_automatic_stations
+SPI_aws,spitzingsee,11.88617,47.67155,1100,validation_data_automatic_stations
+ZUG_aws,zugspitze,10.9834540933177,47.4063023860594,2420,validation_data_automatic_stations
